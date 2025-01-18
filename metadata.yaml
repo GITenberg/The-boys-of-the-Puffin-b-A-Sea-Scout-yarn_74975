@@ -1,0 +1,41 @@
+_repo: The-boys-of-the-Puffin-b-A-Sea-Scout-yarn_74975
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Goss, G. W. (Geoffrey Walter)
+    aliases:
+    - Goss, Geoffrey W.
+    - Goss, G.W.
+    - Goss, Geoffrey Walter
+    birthdate: 1901
+    deathdate: 1985
+    gutenberg_agent_id: '57757'
+    url: http://www.gutenberg.org/2009/agents/57757
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2024-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74975'
+language: en
+pgterms:marc905: 20210518235354westerman
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Produced by R.G.P.M. van Giesen, thank you Ru!
+publication_note: '  $aUnited Kingdom :$bS.W. Partridge & Co., $c1925, reprint 1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The boys of the "Puffin" : $b A Sea Scout yarn'
+url: http://www.gutenberg.org/ebooks/74975
