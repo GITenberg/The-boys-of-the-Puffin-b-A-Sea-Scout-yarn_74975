@@ -11,6 +11,9 @@ contributor:
     deathdate: 1985
     gutenberg_agent_id: '57757'
     url: http://www.gutenberg.org/2009/agents/57757
+covers:
+- cover_type: archival
+  image_path: 74975-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74975#The-boys-of-the-Puffin-b-A-Sea-Scout-yarn
 gutenberg_issued: '2024-12-26'
 gutenberg_type: Text
 identifiers:
